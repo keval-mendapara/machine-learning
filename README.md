@@ -1,1 +1,1 @@
-ML model that can use CVS file of email,and give sentimate analysis of email,Also Generate Classifaction report for that email.
+ML model use emails as CVS file  ,and give sentimate analysis of email,Also Generate Classifaction report for that email.
